@@ -1,0 +1,82 @@
+.social .gitButtons {
+  color: white;
+  font-size: 39px;
+}
+.profile-pic {
+  box-shadow: 0 7px 17px 0px rgba(0, 0, 0, 0.24),
+    0 6px 4px -2px rgba(0, 0, 0, 0.2);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  border-radius: 100%;
+}
+.aboutCss {
+  display: flex;
+  justify-content: center;
+}
+.skills {
+  width: 100%;
+  margin-top: 246px;
+  position: absolute;
+  z-index: 2020;
+}
+.paper {
+  width: 100%;
+  padding-bottom: 40px;
+  border-radius: inherit !important;
+}
+.MuiGrid-root .leftBorder {
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+}
+
+.centerSkills {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.MuiGrid-root .rightBorder {
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+.iconDesign {
+  color: black;
+  justify-content: center;
+  display: flex;
+  padding-top: 12px;
+  font-size: 52px;
+}
+
+.head {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.textAlign {
+  margin: 20px 57px 2px 93px;
+  font-size: 16px;
+}
+
+.skillsDev {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.centerText {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.MuiSvgIcon-root {
+  color: black;
+
+  justify-content: center;
+
+  display: flex !important;
+  padding-top: 12px;
+  font-size: 52px !important;
+}
